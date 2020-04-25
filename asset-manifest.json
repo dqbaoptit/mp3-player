@@ -1,17 +1,19 @@
 {
   "files": {
     "main.css": "/mp3-player/static/css/main.e8150f8f.chunk.css",
-    "main.js": "/mp3-player/static/js/main.7e65b322.chunk.js",
-    "main.js.map": "/mp3-player/static/js/main.7e65b322.chunk.js.map",
+    "main.js": "/mp3-player/static/js/main.e959f9ae.chunk.js",
+    "main.js.map": "/mp3-player/static/js/main.e959f9ae.chunk.js.map",
     "runtime-main.js": "/mp3-player/static/js/runtime-main.0469ea87.js",
     "runtime-main.js.map": "/mp3-player/static/js/runtime-main.0469ea87.js.map",
-    "static/js/2.ee7c5ac6.chunk.js": "/mp3-player/static/js/2.ee7c5ac6.chunk.js",
-    "static/js/2.ee7c5ac6.chunk.js.map": "/mp3-player/static/js/2.ee7c5ac6.chunk.js.map",
+    "static/css/2.a72c35d3.chunk.css": "/mp3-player/static/css/2.a72c35d3.chunk.css",
+    "static/js/2.d70c658f.chunk.js": "/mp3-player/static/js/2.d70c658f.chunk.js",
+    "static/js/2.d70c658f.chunk.js.map": "/mp3-player/static/js/2.d70c658f.chunk.js.map",
     "index.html": "/mp3-player/index.html",
-    "precache-manifest.b40addc03e950fed95d012a683f1ce87.js": "/mp3-player/precache-manifest.b40addc03e950fed95d012a683f1ce87.js",
+    "precache-manifest.b9acf7611fb71d7b7169bd1959026f7e.js": "/mp3-player/precache-manifest.b9acf7611fb71d7b7169bd1959026f7e.js",
     "service-worker.js": "/mp3-player/service-worker.js",
+    "static/css/2.a72c35d3.chunk.css.map": "/mp3-player/static/css/2.a72c35d3.chunk.css.map",
     "static/css/main.e8150f8f.chunk.css.map": "/mp3-player/static/css/main.e8150f8f.chunk.css.map",
-    "static/js/2.ee7c5ac6.chunk.js.LICENSE.txt": "/mp3-player/static/js/2.ee7c5ac6.chunk.js.LICENSE.txt",
+    "static/js/2.d70c658f.chunk.js.LICENSE.txt": "/mp3-player/static/js/2.d70c658f.chunk.js.LICENSE.txt",
     "static/media/Ai-Doi-Minh-Duoc-Mai-Thanh-Hung.mp3": "/mp3-player/static/media/Ai-Doi-Minh-Duoc-Mai-Thanh-Hung.b515bd18.mp3",
     "static/media/Chi-Khi-Anh-Mot-Minh-Vu-Duy-Khanh-Dat-G.mp3": "/mp3-player/static/media/Chi-Khi-Anh-Mot-Minh-Vu-Duy-Khanh-Dat-G.2f080377.mp3",
     "static/media/Dung-Lo-Anh-Doi-Ma-Mr-Siro.mp3": "/mp3-player/static/media/Dung-Lo-Anh-Doi-Ma-Mr-Siro.8efb7dc6.mp3",
@@ -35,8 +37,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0469ea87.js",
-    "static/js/2.ee7c5ac6.chunk.js",
+    "static/css/2.a72c35d3.chunk.css",
+    "static/js/2.d70c658f.chunk.js",
     "static/css/main.e8150f8f.chunk.css",
-    "static/js/main.7e65b322.chunk.js"
+    "static/js/main.e959f9ae.chunk.js"
   ]
 }
