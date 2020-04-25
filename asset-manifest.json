@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/mp3-player/static/css/main.e8150f8f.chunk.css",
+    "main.js": "/mp3-player/static/js/main.7e65b322.chunk.js",
+    "main.js.map": "/mp3-player/static/js/main.7e65b322.chunk.js.map",
+    "runtime-main.js": "/mp3-player/static/js/runtime-main.0469ea87.js",
+    "runtime-main.js.map": "/mp3-player/static/js/runtime-main.0469ea87.js.map",
+    "static/js/2.ee7c5ac6.chunk.js": "/mp3-player/static/js/2.ee7c5ac6.chunk.js",
+    "static/js/2.ee7c5ac6.chunk.js.map": "/mp3-player/static/js/2.ee7c5ac6.chunk.js.map",
+    "index.html": "/mp3-player/index.html",
+    "precache-manifest.b40addc03e950fed95d012a683f1ce87.js": "/mp3-player/precache-manifest.b40addc03e950fed95d012a683f1ce87.js",
+    "service-worker.js": "/mp3-player/service-worker.js",
+    "static/css/main.e8150f8f.chunk.css.map": "/mp3-player/static/css/main.e8150f8f.chunk.css.map",
+    "static/js/2.ee7c5ac6.chunk.js.LICENSE.txt": "/mp3-player/static/js/2.ee7c5ac6.chunk.js.LICENSE.txt",
+    "static/media/Ai-Doi-Minh-Duoc-Mai-Thanh-Hung.mp3": "/mp3-player/static/media/Ai-Doi-Minh-Duoc-Mai-Thanh-Hung.b515bd18.mp3",
+    "static/media/Chi-Khi-Anh-Mot-Minh-Vu-Duy-Khanh-Dat-G.mp3": "/mp3-player/static/media/Chi-Khi-Anh-Mot-Minh-Vu-Duy-Khanh-Dat-G.2f080377.mp3",
+    "static/media/Dung-Lo-Anh-Doi-Ma-Mr-Siro.mp3": "/mp3-player/static/media/Dung-Lo-Anh-Doi-Ma-Mr-Siro.8efb7dc6.mp3",
+    "static/media/Em-Co-Biet-H2K.mp3": "/mp3-player/static/media/Em-Co-Biet-H2K.38854b5f.mp3",
+    "static/media/Hon-Ca-Yeu-Duc-Phuc.mp3": "/mp3-player/static/media/Hon-Ca-Yeu-Duc-Phuc.ef51045e.mp3",
+    "static/media/La-Duyen-Khong-Phan-Chung-Thanh-Duy.mp3": "/mp3-player/static/media/La-Duyen-Khong-Phan-Chung-Thanh-Duy.932e97bb.mp3",
+    "static/media/So-Phai-Ket-Thuc-Nhat-Phong.mp3": "/mp3-player/static/media/So-Phai-Ket-Thuc-Nhat-Phong.fbafbb73.mp3",
+    "static/media/Thich-Thi-Den-Le-Bao-Binh.mp3": "/mp3-player/static/media/Thich-Thi-Den-Le-Bao-Binh.f58b3a57.mp3",
+    "static/media/Tinh-Sau-Thien-Thu-Muon-Loi-Doan-Hieu.mp3": "/mp3-player/static/media/Tinh-Sau-Thien-Thu-Muon-Loi-Doan-Hieu.108c2ee2.mp3",
+    "static/media/Truc-Xinh-Minh-Vuong-M4U-Viet-ACV.mp3": "/mp3-player/static/media/Truc-Xinh-Minh-Vuong-M4U-Viet-ACV.6e29fc5d.mp3",
+    "static/media/aidoiminh.jpg": "/mp3-player/static/media/aidoiminh.bf071fb1.jpg",
+    "static/media/chungthanhduy.jpg": "/mp3-player/static/media/chungthanhduy.48e8b851.jpg",
+    "static/media/ckamm.jpg": "/mp3-player/static/media/ckamm.00afc60a.jpg",
+    "static/media/cptt.jpg": "/mp3-player/static/media/cptt.2c626616.jpg",
+    "static/media/dunglo.jpg": "/mp3-player/static/media/dunglo.7fd47b1f.jpg",
+    "static/media/emcobiet.jpg": "/mp3-player/static/media/emcobiet.bdbc969b.jpg",
+    "static/media/honcayeu.jpg": "/mp3-player/static/media/honcayeu.6e7596a0.jpg",
+    "static/media/spketthuc.jpg": "/mp3-player/static/media/spketthuc.0ba0c3fc.jpg",
+    "static/media/thithiden.jpg": "/mp3-player/static/media/thithiden.7378f9d5.jpg",
+    "static/media/trucxinh.jpg": "/mp3-player/static/media/trucxinh.9a5a8099.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0469ea87.js",
+    "static/js/2.ee7c5ac6.chunk.js",
+    "static/css/main.e8150f8f.chunk.css",
+    "static/js/main.7e65b322.chunk.js"
+  ]
+}
