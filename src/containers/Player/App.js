@@ -13,7 +13,7 @@ function App() {
   const [isPlay,setPlay] = useState(false);
 
   useEffect(() => {
-    if (duration === currentTime) {
+    if (duration === currentTime && currentTime !== 0) {
       setAudioIndex((audioIndex + 1) % playlist.length)
       setPlay(true)
     }
